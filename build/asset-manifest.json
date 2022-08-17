@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d58eebef.css",
+    "main.js": "/static/js/main.c9a699fb.js",
+    "static/js/787.071eb048.chunk.js": "/static/js/787.071eb048.chunk.js",
+    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.1c701c9a6b587802e3d0.ttf",
+    "static/media/prime.jpg": "/static/media/prime.6fafba129e365eb0b80e.jpg",
+    "static/media/saas.svg": "/static/media/saas.acf71100ae37668fdd0a155120661354.svg",
+    "static/media/testing.svg": "/static/media/testing.dec544601daa9bbe5569fd389266b103.svg",
+    "static/media/develop.svg": "/static/media/develop.ba562d4debc27235e4bbf53dc09a4f81.svg",
+    "static/media/techwriting.svg": "/static/media/techwriting.be645fb0a1d047c8fd6be0de95740c2e.svg",
+    "static/media/train.svg": "/static/media/train.5c2b055b7bb2ff198c672e07474fff26.svg",
+    "static/media/collaborate.svg": "/static/media/collaborate.d90aa5462214a257977433e15f87e3f9.svg",
+    "static/media/database.svg": "/static/media/database.76747d2bc6646e37958c7cf5193c1642.svg",
+    "static/media/device.svg": "/static/media/device.1629ead810c46d4297ad0d343909ae80.svg",
+    "static/media/worpress.svg": "/static/media/worpress.8b401d54421c03ce5c0b31bfa274056e.svg",
+    "static/media/phone.svg": "/static/media/phone.fea0ce414dcadd740a6d78efe77cd89e.svg",
+    "static/media/php.svg": "/static/media/php.d9d18ef8196f75899f23a43a7b324a87.svg",
+    "static/media/message.svg": "/static/media/message.e6b132b01f49d4f6748296c34456b4a9.svg",
+    "static/media/twitter.svg": "/static/media/twitter.9904b5db9ee8d2e3a6e8e1d673d859ce.svg",
+    "static/media/twitter-white.svg": "/static/media/twitter-white.63589420020e028e3c54b6dbf83f671b.svg",
+    "static/media/js.svg": "/static/media/js.327e9e4d2e82c1468beb3a2cf682d234.svg",
+    "static/media/linked.svg": "/static/media/linked.9eafbd429f942074a6c3d1c052233eb7.svg",
+    "static/media/linked-white.svg": "/static/media/linked-white.5147c6a00312e7689b779126932e3c8a.svg",
+    "static/media/message-white.svg": "/static/media/message-white.29c4b48d8ad7df2bab148bf9f91d31ec.svg",
+    "index.html": "/index.html",
+    "static/media/html.svg": "/static/media/html.5f3c5eb7dd0a48848c3c66c6552079c2.svg",
+    "static/media/shape.svg": "/static/media/shape.e1b123ae69408e8cdd8d213769323fcf.svg",
+    "main.d58eebef.css.map": "/static/css/main.d58eebef.css.map",
+    "main.c9a699fb.js.map": "/static/js/main.c9a699fb.js.map",
+    "787.071eb048.chunk.js.map": "/static/js/787.071eb048.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d58eebef.css",
+    "static/js/main.c9a699fb.js"
+  ]
+}
